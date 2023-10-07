@@ -1,9 +1,9 @@
-# RepoName
+# HuoRong
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/HuoRong
 ```
 
 ## Notes
